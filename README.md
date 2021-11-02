@@ -1,4 +1,6 @@
-# Alpine MPICH
+# This is the repo from NLKNguyen that will be utilized to install mpi on the peer nodes of Hyperledger Fabric
+
+### Alpine MPICH
 
 Docker image of Alpine Linux with  [MPICH](http://www.mpich.org/) -- portable implementation of Message Passing Interface (MPI) standard. Designed for MPI program development and deployment.
 
